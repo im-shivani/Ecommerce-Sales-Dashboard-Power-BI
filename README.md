@@ -19,7 +19,7 @@ This project presents an interactive Power BI dashboard for analyzing e-commerce
 - Compared product performance across regions
 
 ## Dashboard Preview
-Dashboard_Preview.jpeg
+![Dashboard Preview] Dashboard_Preview.jpeg
 
 ## Author
 Shivani Kumari
